@@ -8,4 +8,5 @@ Final submission had 0.78 AUC on private leader board. Top rank had 0.805.
 
 Following are steps required to get the results:-
 
-1. Run 
+1. Run 000_mk.ipynb
+2. Run 
