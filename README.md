@@ -1,6 +1,5 @@
-# Home-Loan-Default-
+# Home-Loan-Default
 
-Kaggle Competition -
+This is about my submission for Home Loan Default competition hosted on Kaggle Competitions.It can be [found here.](https://www.kaggle.com/c/home-credit-default-risk) 
 
-Home Loan Default(https://www.kaggle.com/c/home-credit-default-risk)
 
