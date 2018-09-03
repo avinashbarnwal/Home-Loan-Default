@@ -26,4 +26,8 @@ Following are steps required to get the results:-
 4. Run 102_bureau.ipynb
 5. Run 103_bureau.ipynb
 6. Run 200_prev_app.ipynb
+7. Run 300_pos_cash.ipynb
+8. Run 400_install_payment.ipynb
+9. Run 500_credit_card.ipynb
+10. Run 600_model.ipynb
 
